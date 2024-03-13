@@ -1,5 +1,6 @@
 # Synchronous Fireflies 
 Each dot represents a firefly. They each have their own glowing clock and adjust it according to the signals from nearby fireflies. This results in the phenomenon of all fireflies synchronizing.
+
 每個點都代表一隻螢火蟲。每隻螢火蟲都有自己發光的生理時鐘，並根據身邊同伴的訊號微調自己的時鐘，最終所有螢火蟲會逐漸趨於同步。
 
 ---
